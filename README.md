@@ -24,4 +24,4 @@ A console-based Minesweeper game built from scratch in **C++**. This project dem
 ## Installation & Running
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Minesweeper_Game_CPP.git
+git clone https://github.com/Muhammad-Ahmad-99/Minesweeper_Game_CPP.git
